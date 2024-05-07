@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "javabasics",
+      "request": "launch",
+      "mainClass": "javabasics",
+      "projectName": "INSTALL JAVA_de79acf9"
+    },
+    {
+      "type": "java",
+      "name": "ABC",
+      "request": "launch",
+      "mainClass": "ABC",
+      "projectName": "INSTALL JAVA_de79acf9"
+    },
+    {
+      "type": "java",
+      "name": "Pattern1",
+      "request": "launch",
+      "mainClass": "Pattern1",
+      "projectName": "INSTALL JAVA_de79acf9"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shreyansh/INSTALL JAVA",
+      "program": "/Users/shreyansh/INSTALL JAVA/build/Debug/outDebug"
+    }
+  ]
+}
